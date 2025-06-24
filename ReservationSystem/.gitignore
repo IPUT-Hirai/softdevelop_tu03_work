@@ -1,9 +1,12 @@
+# Eclipse
 .metadata
-bin/
 tmp/
 *.tmp
-.settings/
-.externalToolbuilders/
 *.launch
+.settings/
 .classpath
 .project
+
+# Build output
+bin/
+build/
